@@ -10,4 +10,6 @@ websocket协议翻译
 * [1.引言](https://github.com/zhangkaitao/websocket-protocol/wiki/1.%E5%BC%95%E8%A8%80)
 * [2.一致性要求](https://github.com/zhangkaitao/websocket-protocol/wiki/2.%E4%B8%80%E8%87%B4%E6%80%A7%E8%A6%81%E6%B1%82)
 * [3.WebSocket URI](https://github.com/zhangkaitao/websocket-protocol/wiki/3.WebSocket-URI)
+* [4.打开阶段握手](https://github.com/zhangkaitao/websocket-protocol/wiki/4.%E6%89%93%E5%BC%80%E9%98%B6%E6%AE%B5%E6%8F%A1%E6%89%8B)
+
 
